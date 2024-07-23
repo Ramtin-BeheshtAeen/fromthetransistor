@@ -1,5 +1,5 @@
 
-# Projects based on .. recomendation:
+# Projects based on [George Hotz](https://github.com/geohot/fromthetransistor) recomendation:
 #### Section 1: Intro: Cheating our way past the transistor -- 0.5 weeks
 1. Describe how FPGAs are buildable using transistors.
 2. Understand the LUTs and stuff.
